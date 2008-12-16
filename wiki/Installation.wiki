@@ -1,0 +1,14 @@
+#Installation instructions
+
+= Introduction =
+
+Copy the Script wherever you want.
+Now edit the script and set the $script:viserver and the $script:vmrc vars to the right setting like this:
+
+$script:viserver = "vmware.localhost.localdomain"
+$script:vmrc = "C:\Program Files\vmware\vmware remote console\vmrc.exe"
+
+
+= Details =
+
+To get the VM Remote Console rip it off from vmware server or download here: http://dl.getdropbox.com/u/165259/vmware-vmrc-win32-x86.exe 
