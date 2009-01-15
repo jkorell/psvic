@@ -3,7 +3,7 @@
 = Introduction =
 
 Copy the Script wherever you want.
-Now edit the script and set the $script:viserver and the $script:vmrc vars to the right setting like this:
+Now edit the script and set the $script:vservers and the $script:vmrc vars to the right setting like this:
 
 $script:viserver = "vmware.localhost.localdomain"
 $script:vmrc = "C:\Program Files\vmware\vmware remote console\vmrc.exe"
