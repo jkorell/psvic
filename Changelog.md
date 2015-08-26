@@ -1,0 +1,11 @@
+# 0.5 #
+
+- complete modulized
+- now you can select languages (english and german at the moment)
+- changed to work with PowerShell 2 CTP3 (now downwards compatibility)
+- added multi-server connections (simply edit the $script:vservers var)
+
+# 0.4 #
+
+- fixed small bugs
+- corrected some spellings
